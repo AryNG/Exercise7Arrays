@@ -8,7 +8,7 @@ public class Exercise7arrays {
 		int[] intArray = new int[Elements_Array];
 		char[] charArray = new char[Elements_Array];
 		boolean[] boolArray = new boolean[Elements_Array];
-		double[] dbArray = new double[Elements_Array];
+		double[] dblArray = new double[Elements_Array];
 		String[] strArray = new String[Elements_Array];
 		
 		int [] intArray2 = {10,20,30,40,50};
